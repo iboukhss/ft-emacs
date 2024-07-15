@@ -1,0 +1,3 @@
+[submodule "ft-lisp"]
+	path = ft-lisp
+	url = git@github.com:iboukhss/42-header-emacs.git
