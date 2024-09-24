@@ -1,2 +1,8 @@
+custom.el
 auto-save-list/
 url/
+eln-cache/
+elpa/
+history
+places
+recentf
